@@ -13,3 +13,6 @@ git checkout -- file
 git reset HEAD file
 
 Git checkout -b dev
+
+
+Creating a new branch is quick & simple.
