@@ -11,3 +11,5 @@ Stage
 Master branch
 git checkout -- file
 git reset HEAD file
+
+Git checkout -b dev
